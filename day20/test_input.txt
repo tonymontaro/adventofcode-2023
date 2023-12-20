@@ -1,0 +1,59 @@
+58
+2 %cg fb rc
+1 %jz lf
+1 %gf ld
+2 %gz mz gv
+2 %qd ll mr
+2 %pd sq ll
+1 %lf mg
+1 &mk kl
+1 &fp kl
+2 %qh gv vk
+2 %mr ll pd
+5 &gv tz ss kx gz xt
+2 %rd pj qf
+2 %cl tc qf
+6 &qf pj zc jt jz lf mn
+1 %mn rd
+2 %dd rc vf
+1 %sg qf
+4 broadcaster gz fh jt vj
+2 %jt xr qf
+1 %vf cg
+2 %mx dm ll
+1 %gx gv
+2 %vk gv gk
+1 %dm qd
+2 %ts qf sg
+1 &xt kl
+2 %fl dd rc
+1 %kx ss
+2 %fh ll vl
+1 %kq nf
+1 %vg tx
+2 %nf rc gf
+2 %lb gx gv
+5 &rc vj fp gf kq vf
+2 %ld nz rc
+1 &kl rx
+1 %ss lq
+2 %zh ll zv
+2 %xr jz qf
+2 %mg mn qf
+1 %dh rc
+2 %vj fl rc
+2 %lq gv tz
+2 %vl ll vg
+2 %gk lb gv
+2 %nz rc dh
+2 %ps gv kx
+1 %tz qh
+2 %fb kq rc
+1 %sq ll
+2 %mz ps gv
+1 %pj cl
+2 %tx zh ll
+5 &ll mk fh vg zv dm
+1 %zv mx
+2 %tc ts qf
+1 &zc kl
